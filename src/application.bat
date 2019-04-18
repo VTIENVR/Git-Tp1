@@ -1,5 +1,7 @@
 ### application.bat - 2019 - Vincent Tienvrot ###
 
-echo "Build : 10:00"
-echo "version 1.1"
-echo "Copyright company - 2019"
+version="2"
+build_hour="11h00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
